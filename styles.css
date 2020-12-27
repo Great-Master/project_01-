@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	  #headerArea{
+		width: 900px;  
+		height: 75px;
+		background: url("Maseno University Logo.png") top center no-repeat;
+	  }
+	  
+	  #sideArea{
+		 width: 300px;
+		 float: left; 
+		 min-height: 500px;
+		 padding: 30px;
+		 font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+		 font-size: 20px;
+		 background-color: aqua;
+		   
+	  
+	  }
+	       #sideArea a{
+		   text-decoration: none;
+		   color: chocolate;
+		   }
+	       
+	       #sideArea a:hover{
+		   text-decoration: none;
+		   color:black;
+		   }
+	  
+	  #textArea{
+		 width: 600px;  
+		 float: left;
+		 padding: 20px;
+		  
+	  }
+	  
+	  #footerArea{
+		width: 900px;  
+		height: 40px; 
+		 background-color: #ccc;
+		padding: 5px;
+		  
+	  }
+	  
+	  .clear{
+		  clear: both; 
+	  }
+	  body{
+		  
+		  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+	  }
+	  
+	  h1{
+		 font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+		 font-weight: bold;
+		  
+	  }
+	  
+ 	
